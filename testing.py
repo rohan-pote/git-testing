@@ -1,1 +1,1 @@
-print("This is a testing file")
+print("This is an SMTP testing file")
